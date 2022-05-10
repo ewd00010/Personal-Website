@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-09T23:29:28.284Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="waVIV5QKINxl-EgL66i4" version="17.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-10T06:01:01.184Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="1JBe1r8GJ_dTq_8BEJnm" version="17.5.0" type="github">
   <diagram id="cfF-LA429BAPi4aCmseQ" name="Page-1">
-    <mxGraphModel dx="1822" dy="1200" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFCE8" math="0" shadow="0">
+    <mxGraphModel dx="1822" dy="1143" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFCE8" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -41,13 +41,13 @@
           <mxGeometry x="161" y="323" width="480" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eQaoq6UVIGZGrponW-SI-13" value="Antonio has to get through a lot of applicants today alone and although he wants to look at every piece of work presented in today&#39;s CVs, he knows he has other things to do today. Antonio loves to base his choice of applicants to pick for interviews on what effort and passion they put into their own personal projects.&lt;br&gt;&lt;br&gt;On top of all this Antonio promised his wife that they would go out for dinner so he has taken the last 2 hours of work off as holiday time, further reducing the amount of time Antonio has to check applicants&#39; CVs today. Antonio knows that when he gets home his wife will take a while to get ready so he may have some spare time to check CVs and view applicants&#39; work on his phone." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFCE8;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="638" y="-147" width="430" height="230" as="geometry" />
+          <mxGeometry x="623" y="-147" width="445" height="230" as="geometry" />
         </mxCell>
         <mxCell id="eQaoq6UVIGZGrponW-SI-14" value="Technology" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFCE8;fontSize=35;" parent="1" vertex="1">
-          <mxGeometry x="609" y="128" width="480" height="30" as="geometry" />
+          <mxGeometry x="609" y="134" width="480" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eQaoq6UVIGZGrponW-SI-15" value="Antonio works on a Della Inspirator Pheonix +7000 at work, a fancy computer that is worth far less than its price but looks good for potential shareholders. It can run any website within an issue. On the Della, Antonio uses Chrome as his web browser.&lt;br&gt;&lt;br&gt;Antonio also owns an Anti-L Phone that is up to date with the latest tech. It has the processing power of two Apache helicopters so it will be able to run any website without an issue. The screen resolution is 1090x1920 px and the phone&#39;s actual size is 6x3 in." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFCE8;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="635" y="176" width="430" height="230" as="geometry" />
+          <mxGeometry x="625" y="176" width="440" height="230" as="geometry" />
         </mxCell>
         <mxCell id="irmXtFamz5eWyTBFc1K7-1" value="Antonio is currently dealing with Applications for a new internship role at his company, HobCo General. He is looking for an intern that is enthusiastic and motivated to be a top-quality intern over 3 months. Antonio also likes to look for interns who have gone the extra mile in their practice and personal development of programming by checking out applicants&#39; GitHub and LinkedIn accounts for interesting projects and more information about the applicant in question." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFCE8;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="221" y="355" width="382" height="199" as="geometry" />
