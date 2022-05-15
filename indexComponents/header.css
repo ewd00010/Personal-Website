@@ -1,6 +1,17 @@
-.navbar {
+
+#navbar-brand-row {
 	background-color: rgb(48, 25, 52);
 }
+
+#navbar-option-row {
+	background-color: rgb(67, 40, 72);
+}
+
+/*.navbar {
+	background-color: rgb(48, 25, 52);
+} */
+
+
 
 .navbar-brand,
 .nav-item,

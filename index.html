@@ -5,39 +5,73 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
   <title>EwanEdwardDunn.Com</title>
-
+	<!-- Bootstrap -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-
-	<link rel="stylesheet" href="indexComponents/navbar.css">
+	<!-- External css -->
+	<link rel="stylesheet" href="indexComponents/header.css">
+	<link rel="stylesheet" href="indexComponents/footer.css">
 </head>
 <body style="background-color:black;">
-
-  <nav class="navbar">
-    <div class="container-fluid">
-      <a class="navbar-brand" href="#">EwanEdwardDunn.Com</a>
-    </div>
-  </nav>
-
-  <nav class="navbar navbar-expand-lg ">
-    <div class="container-fluid">
-			<div class="collapse navbar-collapse">
-				<ul class="navbar-nav me-auto mb-2 mb-lg-0">
-					<li class="nav-item">
-						<a class="nav-link active" aria-current="page" href="#">Home</a>
-					</li>
-					<li class="nav-item">
-						<a class="nav-link" href="#">Skills</a>
-					</li>
-					<li class="nav-item">
-						<a class="nav-link" href="#">About me</a>
-					</li>
-					<li class="nav-item">
-						<a class="nav-link" href="#">Projects</a>
-					</li>
-				</ul>
+	<header>
+		<!-- main brand -->
+		<nav class="navbar" id="navbar-brand-row">
+			<div class="container-fluid">
+				<a class="navbar-brand" href="#">EwanEdwardDunn.Com</a>
 			</div>
+		</nav>
+		<!-- main header navigation -->
+		<nav class="navbar navbar-expand-sm" id="navbar-option-row">
+			<div class="container-fluid">
+				<div class="collapse navbar-collapse">
+					<ul class="navbar-nav me-auto mb-2 mb-sm-0">
+						<li class="nav-item">
+							<a class="nav-link active" aria-current="page" href="#">Home</a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link" href="#">Skills</a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link" href="#">About me</a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link" href="#">Projects</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</nav>
+	</header>
+
+	<footer>
+		<div class="container-fluid border-width-custom" id="footer">
+      <!-- row is a bootstrap class similar to col, instead of creating a container horizontally like col, it creates vertically -->
+      <div class="row">
+        <div class="col-sm" id="footer-row">
+
+          <h5 id="footer-head">Rights</h5>
+          <p id="footer-text">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit.<br>
+            Pellentesque nulla ex, maximus eu ex et
+          </p>
+        </div>
+        <div class="col-sm" id="footer-row">
+
+          <h5 id="footer-head">contact details</h5>
+          <p id="footer-text">
+            efficitur sagittis ipsum. Nunc varius dapibus odio.<br>
+            Suspendisse dictum eros nec placerat consectetur. Aliquam ac
+            lacinia justo, <br>
+            sit amet luctus nisl. Phasellus
+          </p>
+        </div>
+        <div class="col-sm" id="footer-row">
+					<!-- maybe include settings here to -->
+          <a class="nav-link" href="settings.html" id="footer-link">Settings</a>
+        </div>
+      </div>
     </div>
-  </nav>
+
+	</footer>
 
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.14.7/dist/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
