@@ -1,22 +1,32 @@
 #footer {
-	background-color: rgb(48, 25, 52);
+	background: #301934;
+	background: -moz-linear-gradient(left, #301934 0%, #442D48 50%, #0f3d5c 100%);
+	background: -webkit-linear-gradient(left, #301934 0%, #442D48 50%, #0f3d5c 100%);
+	background: linear-gradient(to right, #301934 30%, #442D48 60%, #0f3d5c 90%);
+	border: 5px solid;
+	border-color: rgba(0, 0, 0, 0.61);
+	border-radius: 15px 15px 0px 0px;
+}
+
+#footer-text,
+#footer-head,
+#footer-link {
+	color: rgb(150, 255, 150);
+	font-family: 'Open Sans', Geneva, Tahoma, sans-serif;
 }
 
 #footer-text {
-	color: rgb(150, 255, 150);
-	font-family: Verdana, Geneva, Tahoma, sans-serif;
-  font-size: 1.1em;
+  font-size: 1.2em;
 }
 
 
 #footer-head {
-	color: rgb(150, 255, 150);
-	font-family: Verdana, Geneva, Tahoma, sans-serif;
-	font-size: 1.8em;
+	font-size: 2em;
 }
 
 #footer-link {
-	font-size: 2em;
+	font-size: 4em;
+	margin-left: 7rem;
 }
 
 footer {
